@@ -1,0 +1,10 @@
+F:\ITM\Distribuida\TallerI\employees-report\employeesReport.Common\bin\Debug\netcoreapp3.1\employeesReport.Common.deps.json
+F:\ITM\Distribuida\TallerI\employees-report\employeesReport.Common\bin\Debug\netcoreapp3.1\employeesReport.Common.dll
+F:\ITM\Distribuida\TallerI\employees-report\employeesReport.Common\bin\Debug\netcoreapp3.1\employeesReport.Common.pdb
+F:\ITM\Distribuida\TallerI\employees-report\employeesReport.Common\obj\Debug\netcoreapp3.1\employeesReport.Common.csproj.AssemblyReference.cache
+F:\ITM\Distribuida\TallerI\employees-report\employeesReport.Common\obj\Debug\netcoreapp3.1\employeesReport.Common.GeneratedMSBuildEditorConfig.editorconfig
+F:\ITM\Distribuida\TallerI\employees-report\employeesReport.Common\obj\Debug\netcoreapp3.1\employeesReport.Common.AssemblyInfoInputs.cache
+F:\ITM\Distribuida\TallerI\employees-report\employeesReport.Common\obj\Debug\netcoreapp3.1\employeesReport.Common.AssemblyInfo.cs
+F:\ITM\Distribuida\TallerI\employees-report\employeesReport.Common\obj\Debug\netcoreapp3.1\employeesReport.Common.csproj.CoreCompileInputs.cache
+F:\ITM\Distribuida\TallerI\employees-report\employeesReport.Common\obj\Debug\netcoreapp3.1\employeesReport.Common.dll
+F:\ITM\Distribuida\TallerI\employees-report\employeesReport.Common\obj\Debug\netcoreapp3.1\employeesReport.Common.pdb
